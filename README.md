@@ -17,19 +17,24 @@
 ## 🔨 Lenguajes y Herramientas  
 
 **Lenguajes de Programación:**  
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)  
-![PHP](https://img.shields.io/badge/-PHP-blueviolet?logo=php&logoColor=white&style=flat)  
-![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+</p>  
 
 **Herramientas y Tecnologías:**  
-![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat)  
-![Linux](https://img.shields.io/badge/-Linux-yellowgreen?logo=linux&logoColor=white&style=flat)  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>  
+</p>  
 
 ---
 
@@ -47,4 +52,5 @@
 🐦 **Twitter:** [@Ricardotb2K](https://twitter.com/Ricardotb2K)  
 
 ¡Estoy abierto a colaboraciones y siempre dispuesto a aprender algo nuevo!  
+ 
  
