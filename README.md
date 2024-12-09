@@ -38,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>  
@@ -45,7 +46,7 @@
 
 **Ciberseguridad:**  
 <p align="left">
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-hacker-cyber-crime-flaticons-flat-flat-icons.png" alt="Red Team" width="40" height="40"/>  
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-hacker-cyber-crime-flat-flat-juicy-fish.png" alt="Red Team" width="40" height="40"/>  
   <img src="https://img.icons8.com/ios-filled/50/000000/security-checked.png" alt="Security Analysis" width="40" height="40"/>  
 </p>  
 
@@ -65,6 +66,7 @@
 🐦 **Twitter:** [@Ricardotb2K](https://twitter.com/Ricardotb2K)  
 
 ¡Estoy abierto a colaboraciones y siempre dispuesto a aprender algo nuevo!  
+ 
 
  
  
